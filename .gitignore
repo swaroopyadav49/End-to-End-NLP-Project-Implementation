@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+hatevenv/*
+hate_speech_classification.egg-info/*

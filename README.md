@@ -26,7 +26,7 @@ conda create -n hatevenv python=3.9 -y
 ```
 
 ```cmd
-conda activate
+conda activate <link>
 ```
 
 ```cmd

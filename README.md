@@ -1,7 +1,6 @@
 # End-to-End-NLP-Project-Implementation
 
 
-# USVisa-Approval
 
 - Anaconda: https://www.anaconda.com/
 - Vs code: https://code.visualstudio.com/download

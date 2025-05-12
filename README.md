@@ -21,11 +21,13 @@ git push origin main
 ```
 
 ```cmd
-conda create -n hatevenv python=3.9 -y
+conda create -p hatevenv python=3.9
 ```
 
 ```cmd
 conda activate <link>
+
+i.e conda activate D:\Udamy\End-to-End-NLP-Project-Implementation\hatevenv 
 ```
 
 ```cmd

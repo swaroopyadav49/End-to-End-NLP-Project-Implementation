@@ -174,5 +174,7 @@ cython_debug/
 .pypirc
 
 
-hatevenv/*
+hatevenv
 hate_speech_classification.egg-info/*
+env
+

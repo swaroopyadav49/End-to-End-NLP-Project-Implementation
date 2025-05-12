@@ -177,4 +177,4 @@ cython_debug/
 hatevenv
 hate_speech_classification.egg-info/*
 env
-
+logs
